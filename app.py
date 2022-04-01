@@ -10,6 +10,7 @@ import dash_daq as daq
 import json
 
 import dashboard_functions as dash_func
+from whitenoise import WhiteNoise
 
 # Collect data
 file_path = 'data/gtd_df_red.csv'
@@ -28,6 +29,7 @@ df_gti.drop(['Unnamed: 0'], axis=1, inplace=True)
 # Build App
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE])
 server = app.server
+server.wsgi_app = WhiteNoise(server.wsgi_app, root='static/')
 
 styles = {
     'pre': {
