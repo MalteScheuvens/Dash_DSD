@@ -1,0 +1,504 @@
+country_code;country_name;region;sub_region;intermediate_region
+ABW;Aruba;Americas;Latin America and the Caribbean;Caribbean
+ABW;Aruba (Netherlands);Americas;Latin America and the Caribbean;Caribbean
+AFG;Afghanistan;Asia;Southern Asia;
+AFG;Johnston Atoll (US);Asia;Southern Asia;
+AGO;Angola;Africa;Sub-Saharan Africa;Middle Africa
+AIA;Anguilla (UK);Americas;Latin America and the Caribbean;Caribbean
+ALA;Bechuanaland;Europe;Northern Europe;
+ALA;Cook Islands (New Zealand);Europe;Northern Europe;
+ALA;Howland Island (US);Europe;Northern Europe;
+ALA;Niue (New Zealand);Europe;Northern Europe;
+ALA;Nyasaland;Europe;Northern Europe;
+ALA;Tokelau (New Zealand);Europe;Northern Europe;
+ALB;Albania;Europe;Southern Europe;
+AND;Andorra;Europe;Southern Europe;
+ARE;United Arab Emirates;Asia;Western Asia;
+ARG;Argentina;Americas;Latin America and the Caribbean;South America
+ARM;Armenia;Asia;Western Asia;
+ASM;American Samoa;Oceania;Polynesia;
+ASM;American Samoa (US);Oceania;Polynesia;
+ATA;Antarctica;;;
+ATA;International;;;
+ATG;Antigua and Barbuda;Americas;Latin America and the Caribbean;Caribbean
+AUS;Australia;Oceania;Australia and New Zealand;
+AUS;Christmas Island (Australia);Oceania;Australia and New Zealand;
+AUS;Cocos (Keeling) Islands (Australia);Oceania;Australia and New Zealand;
+AUS;Heard Island & McDonald Islands (Australia);Oceania;Australia and New Zealand;
+AUS;Norfolk Island (Australia);Oceania;Australia and New Zealand;
+AUT;Austria;Europe;Western Europe;
+AZE;Azerbaijan;Asia;Western Asia;
+BDI;Burundi;Africa;Sub-Saharan Africa;Eastern Africa
+BEL;Belgium;Europe;Western Europe;
+BEN;Benin;Africa;Sub-Saharan Africa;Western Africa
+BEN;Dahomey;Africa;Sub-Saharan Africa;Western Africa
+BFA;Burkina Faso;Africa;Sub-Saharan Africa;Western Africa
+BFA;Upper Volta;Africa;Sub-Saharan Africa;Western Africa
+BGD;Bangladesh;Asia;Southern Asia;
+BGR;Bulgaria;Europe;Eastern Europe;
+SRB;Yugoslavia;Europe;Eastern Europe;
+BHR;Bahrain;Asia;Western Asia;
+BHS;Bahamas;Americas;Latin America and the Caribbean;Caribbean
+BHS;Bahamas, The;Americas;Latin America and the Caribbean;Caribbean
+BHS;The Bahamas;Americas;Latin America and the Caribbean;Caribbean
+BIH;Bosnia;Europe;Southern Europe;
+BIH;Bosnia and Herzegovina;Europe;Southern Europe;
+BIH;Bosnia-Hercegovina;Europe;Southern Europe;
+BIH;Bosnia-Herzegovina;Europe;Southern Europe;
+BIH;Zanzibar and Pemba;Europe;Southern Europe;
+BLR;Belarus;Europe;Eastern Europe;
+BLZ;Belize;Americas;Latin America and the Caribbean;Central America
+BMU;Bermuda;Americas;Northern America;
+BMU;Bermuda (UK);Americas;Northern America;
+BOL;Bolivia;Americas;Latin America and the Caribbean;South America
+BOL;Bolivia (Plurinational State of);Americas;Latin America and the Caribbean;South America
+BRA;Brazil;Americas;Latin America and the Caribbean;South America
+BRB;Barbados;Americas;Latin America and the Caribbean;Caribbean
+BRN;Brunei;Asia;South-eastern Asia;
+BRN;Brunei Darussalam;Asia;South-eastern Asia;
+BTN;Bhutan;Asia;Southern Asia;
+BVT;Baker Island (US);Americas;Latin America and the Caribbean;South America
+BVT;Bouvet Island (Norway);Americas;Latin America and the Caribbean;South America
+BVT;West Indies;Americas;Latin America and the Caribbean;South America
+BWA;Botswana;Africa;Sub-Saharan Africa;Southern Africa
+CAF;Central African Empire;Africa;Sub-Saharan Africa;Middle Africa
+CAF;Central African Rep.;Africa;Sub-Saharan Africa;Middle Africa
+CAF;Central African Republic;Africa;Sub-Saharan Africa;Middle Africa
+CAF;Europe & Central Asia;Africa;Sub-Saharan Africa;Middle Africa
+CAF;Europe & Central Asia (IDA & IBRD countries);Africa;Sub-Saharan Africa;Middle Africa
+CAF;Europe & Central Asia (excluding high income);Africa;Sub-Saharan Africa;Middle Africa
+CAF;Middle East & North Africa (IDA & IBRD countries);Africa;Sub-Saharan Africa;Middle Africa
+CAN;Canada;Americas;Northern America;
+CHE;Switzerland;Europe;Western Europe;
+CHL;Chile;Americas;Latin America and the Caribbean;South America
+CHN;China;Asia;Eastern Asia;
+CHN;Hong Kong SAR, China;Asia;Eastern Asia;
+CHN;Macao SAR, China;Asia;Eastern Asia;
+CHN;Paracel Islands (China);Asia;Eastern Asia;
+CHN;Taiwan, China;Asia;Eastern Asia;
+CIV;Cote D'Ivoire;Africa;Sub-Saharan Africa;Western Africa
+CIV;Cote d'Ivoire;Africa;Sub-Saharan Africa;Western Africa
+CIV;Ivory Coast;Africa;Sub-Saharan Africa;Western Africa
+CMR;Cameroon;Africa;Sub-Saharan Africa;Middle Africa
+CMR;Cameroon (Fr.);Africa;Sub-Saharan Africa;Middle Africa
+COD;Congo, Dem. Rep.;Africa;Sub-Saharan Africa;Middle Africa
+COD;DR Congo (Zaire);Africa;Sub-Saharan Africa;Middle Africa
+COD;Dem. Rep. of Congo;Africa;Sub-Saharan Africa;Middle Africa
+COD;Dem. Rep. of the Congo;Africa;Sub-Saharan Africa;Middle Africa
+COD;Democratic Republic of Congo;Africa;Sub-Saharan Africa;Middle Africa
+COD;Democratic Republic of the Congo;Africa;Sub-Saharan Africa;Middle Africa
+COD;Zaire;Africa;Sub-Saharan Africa;Middle Africa
+COG;Belgian Congo;Africa;Sub-Saharan Africa;Middle Africa
+COG;Congo;Africa;Sub-Saharan Africa;Middle Africa
+COG;Congo (Brazzaville);Africa;Sub-Saharan Africa;Middle Africa
+COG;Congo Brazzaville;Africa;Sub-Saharan Africa;Middle Africa
+COG;Congo Kinshasa;Africa;Sub-Saharan Africa;Middle Africa
+COG;Congo, People's Republic;Africa;Sub-Saharan Africa;Middle Africa
+COG;Congo, Rep.;Africa;Sub-Saharan Africa;Middle Africa
+COG;Congo-Brazzaville;Africa;Sub-Saharan Africa;Middle Africa
+COG;French Congo;Africa;Sub-Saharan Africa;Middle Africa
+COG;People's Republic of the Congo;Africa;Sub-Saharan Africa;Middle Africa
+COG;Republic of the Congo;Africa;Sub-Saharan Africa;Middle Africa
+COL;Colombia;Americas;Latin America and the Caribbean;South America
+COL;Gran Colombia;Americas;Latin America and the Caribbean;South America
+COM;Comoros;Africa;Sub-Saharan Africa;Eastern Africa
+COM;OECD members;Africa;Sub-Saharan Africa;Eastern Africa
+CPV;Arab World;Africa;Sub-Saharan Africa;Western Africa
+CPV;Cabo Verde;Africa;Sub-Saharan Africa;Western Africa
+CPV;Cape Verde;Africa;Sub-Saharan Africa;Western Africa
+CPV;Cape Verde Islands;Africa;Sub-Saharan Africa;Western Africa
+CRI;Costa Rica;Americas;Latin America and the Caribbean;Central America
+CRI;East Asia & Pacific;Americas;Latin America and the Caribbean;Central America
+CUB;Cuba;Americas;Latin America and the Caribbean;Caribbean
+CUW;Curacao;Americas;Latin America and the Caribbean;Caribbean
+CUW;Curacao ;Americas;Latin America and the Caribbean;Caribbean
+CXR;Jarvis Island (US);Oceania;Australia and New Zealand;
+CYM;Cayman Islands;Americas;Latin America and the Caribbean;Caribbean
+CYM;Cayman Islands (UK);Americas;Latin America and the Caribbean;Caribbean
+CYM;Channel Islands;Americas;Latin America and the Caribbean;Caribbean
+CYP;Cyprus;Asia;Western Asia;
+CZE;Czech Republic;Europe;Eastern Europe;
+CZE;Czechia;Europe;Eastern Europe;
+CZE;Czechoslovakia;Europe;Eastern Europe;
+DEU;Baden;Europe;Western Europe;
+DEU;Bavaria;Europe;Western Europe;
+DEU;East Germany (GDR);Europe;Western Europe;
+DEU;German Federal Republic;Europe;Western Europe;
+DEU;Germany;Europe;Western Europe;
+DEU;Germany East;Europe;Western Europe;
+DEU;Germany West;Europe;Western Europe;
+DEU;West Germany (FRG);Europe;Western Europe;
+DJI;Djibouti;Africa;Sub-Saharan Africa;Eastern Africa
+DMA;Dominica;Americas;Latin America and the Caribbean;Caribbean
+DNK;Denmark;Europe;Northern Europe;
+DNK;Faroe Islands (Denmark);Europe;Northern Europe;
+DNK;Greenland (Denmark);Europe;Northern Europe;
+DOM;Dominican Rep.;Americas;Latin America and the Caribbean;Caribbean
+DOM;Dominican Republic;Americas;Latin America and the Caribbean;Caribbean
+DZA;Algeria;Africa;Northern Africa;
+ECU;Ecuador;Americas;Latin America and the Caribbean;South America
+EGY;Egypt;Africa;Northern Africa;
+EGY;Egypt, Arab Rep.;Africa;Northern Africa;
+ERI;Eritrea;Africa;Sub-Saharan Africa;Eastern Africa
+ERI;Euro area;Africa;Sub-Saharan Africa;Eastern Africa
+ESH;Sub-Saharan Africa;Africa;Northern Africa;
+ESH;Sub-Saharan Africa (IDA & IBRD countries);Africa;Northern Africa;
+ESH;Sub-Saharan Africa (excluding high income);Africa;Northern Africa;
+ESH;Western Sahara;Africa;Northern Africa;
+ESP;Saxony;Europe;Southern Europe;
+ESP;Spain;Europe;Southern Europe;
+EST;Estonia;Europe;Northern Europe;
+ETH;Ethiopia;Africa;Sub-Saharan Africa;Eastern Africa
+ETH;Federation of Ethiopia and Eri;Africa;Sub-Saharan Africa;Eastern Africa
+FIN;Finland;Europe;Northern Europe;
+FJI;Fiji;Oceania;Melanesia;
+FLK;Falkland Islands;Americas;Latin America and the Caribbean;South America
+FLK;Falkland Islands (UK);Americas;Latin America and the Caribbean;South America
+FLK;Spratly Islands (Disputed);Americas;Latin America and the Caribbean;South America
+FRA;France;Europe;Western Europe;
+FRA;French Guiana (France);Europe;Western Europe;
+FRA;French Polynesia (France);Europe;Western Europe;
+FRA;French Southern & Antarctic Lands (France);Europe;Western Europe;
+FRA;Glorioso Islands (France);Europe;Western Europe;
+FRA;Guadeloupe (France);Europe;Western Europe;
+FRA;Juan De Nova Island (France);Europe;Western Europe;
+FRA;Martinique (France);Europe;Western Europe;
+FRA;Mayotte (France);Europe;Western Europe;
+FRA;New Caledonia (France);Europe;Western Europe;
+FRA;Reunion (France);Europe;Western Europe;
+FRA;St. Pierre and Miquelon (France);Europe;Western Europe;
+FRA;Wallis and Futuna (France);Europe;Western Europe;
+FRO;Faroe Islands;Europe;Northern Europe;
+FRO;Wake Island (US);Europe;Northern Europe;
+FSM;Federated States of Micronesia;Oceania;Micronesia;
+FSM;Heavily indebted poor countries (HIPC);Oceania;Micronesia;
+FSM;Least developed countries: UN classification;Oceania;Micronesia;
+FSM;Micronesia;Oceania;Micronesia;
+FSM;Micronesia (Federated States of);Oceania;Micronesia;
+FSM;Micronesia, Fed. Sts.;Oceania;Micronesia;
+FSM;Orange Free State;Oceania;Micronesia;
+GAB;Gabon;Africa;Sub-Saharan Africa;Middle Africa
+GBR;High income;Europe;Northern Europe;
+GBR;Low & middle income;Europe;Northern Europe;
+GBR;United Kingdom;Europe;Northern Europe;
+GBR;United Kingdom of Great Britain and Northern Ireland;Europe;Northern Europe;
+GBR;United Province CA;Europe;Northern Europe;
+GBR;Upper middle income;Europe;Northern Europe;
+GEO;Georgia;Asia;Western Asia;
+GEO;South Georgia and the South Sandwich Is (UK);Asia;Western Asia;
+GGY;Guernsey (UK);Europe;Northern Europe;Channel Islands
+GHA;Ghana;Africa;Sub-Saharan Africa;Western Africa
+GIB;Gibraltar;Europe;Southern Europe;
+GIB;Gibraltar (UK);Europe;Southern Europe;
+GIN;Guinea;Africa;Sub-Saharan Africa;Western Africa
+GLP;Guadeloupe;Americas;Latin America and the Caribbean;Caribbean
+GMB;Gambia;Africa;Sub-Saharan Africa;Western Africa
+GMB;Gambia, The;Africa;Sub-Saharan Africa;Western Africa
+GNB;Guinea Bissau;Africa;Sub-Saharan Africa;Western Africa
+GNB;Guinea-Bissau;Africa;Sub-Saharan Africa;Western Africa
+GNB;Portugese Guinea;Africa;Sub-Saharan Africa;Western Africa
+GNQ;Equatorial Guinea;Africa;Sub-Saharan Africa;Middle Africa
+GNQ;Latin America & Caribbean;Africa;Sub-Saharan Africa;Middle Africa
+GNQ;Lower middle income;Africa;Sub-Saharan Africa;Middle Africa
+GNQ;Middle East & North Africa (excluding high income);Africa;Sub-Saharan Africa;Middle Africa
+GNQ;Spanish Guinea;Africa;Sub-Saharan Africa;Middle Africa
+GRC;Greece;Europe;Southern Europe;
+GRD;Grenada;Americas;Latin America and the Caribbean;Caribbean
+GRL;Greenland;Americas;Northern America;
+GTM;Guatemala;Americas;Latin America and the Caribbean;Central America
+GUF;British Guiana;Americas;Latin America and the Caribbean;South America
+GUF;French Guiana;Americas;Latin America and the Caribbean;South America
+GUM;Guam;Oceania;Micronesia;
+GUM;Guam (US);Oceania;Micronesia;
+GUY;Guyana;Americas;Latin America and the Caribbean;South America
+HKG;China, Hong Kong SAR;Asia;Eastern Asia;
+HKG;Hong Kong;Asia;Eastern Asia;
+HMD;Fragile and conflict affected situations;Oceania;Australia and New Zealand;
+HND;Honduras;Americas;Latin America and the Caribbean;Central America
+HRV;Croatia;Europe;Southern Europe;
+HTI;Haiti;Americas;Latin America and the Caribbean;Caribbean
+HUN;Hungary;Europe;Eastern Europe;
+IDN;Indonesia;Asia;South-eastern Asia;
+IMN;Isle of Man;Europe;Northern Europe;
+IMN;Isle of Man (UK);Europe;Northern Europe;
+IND;British Indian Ocean Territory (UK);Asia;Southern Asia;
+IND;India;Asia;Southern Asia;
+IRL;IDA blend;Europe;Northern Europe;
+IRL;Ireland;Europe;Northern Europe;
+IRN;East Asia & Pacific (excluding high income);Asia;Southern Asia;
+IRN;Iran;Asia;Southern Asia;
+IRN;Iran (Islamic Rep. of);Asia;Southern Asia;
+IRN;Iran, Islamic Rep.;Asia;Southern Asia;
+IRQ;Iraq;Asia;Western Asia;
+ISL;Iceland;Europe;Northern Europe;
+ISR;Israel;Asia;Western Asia;
+ITA;IBRD only;Europe;Southern Europe;
+ITA;IDA & IBRD total;Europe;Southern Europe;
+ITA;IDA only;Europe;Southern Europe;
+ITA;IDA total;Europe;Southern Europe;
+ITA;Italy;Europe;Southern Europe;
+JAM;Jamaica;Americas;Latin America and the Caribbean;Caribbean
+JEY;Jersey (UK);Europe;Northern Europe;Channel Islands
+JOR;Jordan;Asia;Western Asia;
+JOR;Transjordan;Asia;Western Asia;
+JOR;World;Asia;Western Asia;
+JPN;Japan;Asia;Eastern Asia;
+KAZ;Kazakhstan;Asia;Central Asia;
+KEN;Kenya;Africa;Sub-Saharan Africa;Eastern Africa
+KGZ;Kyrgyz Republic;Asia;Central Asia;
+KGZ;Kyrgyzstan;Asia;Central Asia;
+KHM;Cambodia;Asia;South-eastern Asia;
+KHM;Cambodia (Kampuchea);Asia;South-eastern Asia;
+KHM;Kampuchea;Asia;South-eastern Asia;
+KHM;Khmer Republic;Asia;South-eastern Asia;
+KIR;Kiribati;Oceania;Micronesia;
+KNA;Saint Kitts and Nevis;Americas;Latin America and the Caribbean;Caribbean
+KNA;St. Christopher-Nevis;Americas;Latin America and the Caribbean;Caribbean
+KNA;St. Kitts and Nevis;Americas;Latin America and the Caribbean;Caribbean
+KOR;Korea;Asia;Eastern Asia;
+KOR;Korea South;Asia;Eastern Asia;
+KOR;Korea, Rep.;Asia;Eastern Asia;
+KOR;Korea, South;Asia;Eastern Asia;
+KOR;Rep. of Korea;Asia;Eastern Asia;
+KOR;South Korea;Asia;Eastern Asia;
+KWT;Kuwait;Asia;Western Asia;
+LAO;Early-demographic dividend;Asia;South-eastern Asia;
+LAO;German Democratic Republic;Asia;South-eastern Asia;
+LAO;Lao;Asia;South-eastern Asia;
+LAO;Lao PDR;Asia;South-eastern Asia;
+LAO;Lao People's Dem. Rep.;Asia;South-eastern Asia;
+LAO;Laos;Asia;South-eastern Asia;
+LAO;Late-demographic dividend;Asia;South-eastern Asia;
+LAO;Post-demographic dividend;Asia;South-eastern Asia;
+LAO;Pre-demographic dividend;Asia;South-eastern Asia;
+LAO;The Peoples Democratic Republi;Asia;South-eastern Asia;
+LBN;European Union;Asia;Western Asia;
+LBN;Lebanon;Asia;Western Asia;
+LBN;Unknown ;Asia;Western Asia;
+LBR;Liberia;Africa;Sub-Saharan Africa;Western Africa
+LBY;Libya;Africa;Northern Africa;
+LCA;Saint Lucia;Americas;Latin America and the Caribbean;Caribbean
+LCA;St. Lucia;Americas;Latin America and the Caribbean;Caribbean
+LIE;Liechtenstein;Europe;Western Europe;
+LKA;Ceylon;Asia;Southern Asia;
+LKA;Sri Lanka;Asia;Southern Asia;
+LSO;Basutoland;Africa;Sub-Saharan Africa;Southern Africa
+LSO;Lesotho;Africa;Sub-Saharan Africa;Southern Africa
+LTU;Lithuania;Europe;Northern Europe;
+LUX;Luxembourg;Europe;Western Europe;
+LUX;Wuerttemburg;Europe;Western Europe;
+LVA;Latvia;Europe;Northern Europe;
+MAC;China, Macao SAR;Asia;Eastern Asia;
+MAC;Macau;Asia;Eastern Asia;
+MAF;St. Martin (French part);Americas;Latin America and the Caribbean;Caribbean
+MAR;Morocco;Africa;Northern Africa;
+MCO;Low income;Europe;Western Europe;
+MCO;Modena;Europe;Western Europe;
+MCO;Monaco;Europe;Western Europe;
+MDA;Moldova;Europe;Eastern Europe;
+MDA;Rep. of Moldova;Europe;Eastern Europe;
+MDG;Madagascar;Africa;Sub-Saharan Africa;Eastern Africa
+MDG;Madagascar (Malagasy);Africa;Sub-Saharan Africa;Eastern Africa
+MDV;Maldives;Asia;Southern Asia;
+MEX;Mexico;Americas;Latin America and the Caribbean;Central America
+MEX;Middle income;Americas;Latin America and the Caribbean;Central America
+MHL;Caribbean small states;Oceania;Micronesia;
+MHL;Marshall Islands;Oceania;Micronesia;
+MHL;Other small states;Oceania;Micronesia;
+MKD;Macedonia;Europe;Southern Europe;
+MKD;Macedonia, FYR;Europe;Southern Europe;
+MKD;North Macedonia;Europe;Southern Europe;
+MKD;Not classified;Europe;Southern Europe;
+MLI;Mali;Africa;Sub-Saharan Africa;Western Africa
+MLT;Malta;Europe;Southern Europe;
+MMR;Burma;Asia;South-eastern Asia;
+MMR;Myanmar;Asia;South-eastern Asia;
+MMR;Myanmar (Burma);Asia;South-eastern Asia;
+MNE;Montenegro;Europe;Southern Europe;
+SRB;Serbia & Montenegro;Europe;Southern Europe;
+SRB;Serbia and Montenegro;Europe;Southern Europe;
+SRB;Serbia-Montenegro;Europe;Southern Europe;
+MNG;Mongolia;Asia;Eastern Asia;
+MNP;Northern Mariana Islands;Oceania;Micronesia;
+MNP;Northern Mariana Islands (US);Oceania;Micronesia;
+MNP;Territory of the Afars and the;Oceania;Micronesia;
+MOZ;Mozambique;Africa;Sub-Saharan Africa;Eastern Africa
+MRT;Mauritania;Africa;Sub-Saharan Africa;Western Africa
+MRT;Sardinia;Africa;Sub-Saharan Africa;Western Africa
+MSR;Montserrat;Americas;Latin America and the Caribbean;Caribbean
+MSR;Montserrat (UK);Americas;Latin America and the Caribbean;Caribbean
+MTQ;Martinique;Americas;Latin America and the Caribbean;Caribbean
+MUS;Mauritius;Africa;Sub-Saharan Africa;Eastern Africa
+MWI;Malawi;Africa;Sub-Saharan Africa;Eastern Africa
+MYS;Malaya;Asia;South-eastern Asia;
+MYS;Malaysia;Asia;South-eastern Asia;
+MYS;Tanganyika;Asia;South-eastern Asia;
+NAM;Namibia;Africa;Sub-Saharan Africa;Southern Africa
+NCL;New Caledonia;Oceania;Melanesia;
+NER;Niger;Africa;Sub-Saharan Africa;Western Africa
+NGA;Nigeria;Africa;Sub-Saharan Africa;Western Africa
+NIC;Nicaragua;Americas;Latin America and the Caribbean;Central America
+NLD;Bonaire (Netherlands);Europe;Western Europe;
+NLD;Curacao (Netherlands);Europe;Western Europe;
+NLD;Netherlands;Europe;Western Europe;
+NOR;Jan Mayen (Norway);Europe;Northern Europe;
+NOR;Norway;Europe;Northern Europe;
+NOR;Svalbard (Norway);Europe;Northern Europe;
+NPL;Nepal;Asia;Southern Asia;
+NRU;Nauru;Oceania;Micronesia;
+NZL;New Zealand;Oceania;Australia and New Zealand;
+OMN;Muscat and Oman;Asia;Western Asia;
+OMN;Oman;Asia;Western Asia;
+OMN;Trucial States;Asia;Western Asia;
+PAK;Pakistan;Asia;Southern Asia;
+PAN;Panama;Americas;Latin America and the Caribbean;Central America
+PAN;Parma;Americas;Latin America and the Caribbean;Central America
+PCN;Pitcairn Islands (UK);Oceania;Polynesia;
+PER;Peru;Americas;Latin America and the Caribbean;South America
+PHL;Philippines;Asia;South-eastern Asia;
+PLW;Palau;Oceania;Micronesia;
+PLW;Palau (US);Oceania;Micronesia;
+PNG;Papua New Guinea;Oceania;Melanesia;
+POL;Poland;Europe;Eastern Europe;
+PRI;Puerto Rico;Americas;Latin America and the Caribbean;Caribbean
+PRI;Puerto Rico (US);Americas;Latin America and the Caribbean;Caribbean
+PRK;Dem. People's Rep. of Korea;Asia;Eastern Asia;
+PRK;Korea North;Asia;Eastern Asia;
+PRK;Korea, Dem. People’s Rep.;Asia;Eastern Asia;
+PRK;Korea, North;Asia;Eastern Asia;
+PRK;North Korea;Asia;Eastern Asia;
+PRT;Portugal;Europe;Southern Europe;
+PRY;Paraguay;Americas;Latin America and the Caribbean;South America
+PSE;Palestine;Asia;Western Asia;
+PSE;Palestinian;Asia;Western Asia;
+PSE;West Bank and Gaza;Asia;Western Asia;
+PSE;West Bank and Gaza Strip;Asia;Western Asia;
+PYF;French Polynesia;Oceania;Polynesia;
+QAT;Qatar;Asia;Western Asia;
+REU;Russia (Soviet Union);Africa;Sub-Saharan Africa;Eastern Africa
+ROU;Romania;Europe;Eastern Europe;
+RUS;Prussia;Europe;Eastern Europe;
+RUS;Russia;Europe;Eastern Europe;
+RUS;Russian Federation;Europe;Eastern Europe;
+RUS;Soviet Union;Europe;Eastern Europe;
+RUS;USSR;Europe;Eastern Europe;
+RWA;Rwanda;Africa;Sub-Saharan Africa;Eastern Africa
+SAU;Saudi Arabia;Asia;Western Asia;
+SDN;Sudan;Africa;Northern Africa;
+SDN;Sudan (North);Africa;Northern Africa;
+SDN;Sudan-North;Africa;Northern Africa;
+SEN;Senegal;Africa;Sub-Saharan Africa;Western Africa
+SGP;Singapore;Asia;South-eastern Asia;
+SGS;East Asia & Pacific (IDA & IBRD countries);Americas;Latin America and the Caribbean;South America
+SHN;St. Helena (UK);Africa;Sub-Saharan Africa;Western Africa
+SLB;Solomon Islands;Oceania;Melanesia;
+SLE;Sierra Leone;Africa;Sub-Saharan Africa;Western Africa
+SLE;Sierre Leone;Africa;Sub-Saharan Africa;Western Africa
+SLV;El Salvador;Americas;Latin America and the Caribbean;Central America
+SMR;San Marino;Europe;Southern Europe;
+SOM;French Somaliland;Africa;Sub-Saharan Africa;Eastern Africa
+SOM;Small states;Africa;Sub-Saharan Africa;Eastern Africa
+SOM;Somalia;Africa;Sub-Saharan Africa;Eastern Africa
+SPM;Latin America & Caribbean (excluding high income);Americas;Northern America;
+SRB;Hyderabad;Europe;Southern Europe;
+SRB;Serbia;Europe;Southern Europe;
+SRB;Serbia (Yugoslavia);Europe;Southern Europe;
+SRB;Serbia and Kosovo: S/RES/1244 (1999);Europe;Southern Europe;
+SSD;South Sudan;Africa;Sub-Saharan Africa;Eastern Africa
+STP;Sao Tome and Principe;Africa;Sub-Saharan Africa;Middle Africa
+STP;Sao Tom‚ and Principe;Africa;Sub-Saharan Africa;Middle Africa
+SUR;Suriname;Americas;Latin America and the Caribbean;South America
+SVK;Slovak Republic;Europe;Eastern Europe;
+SVK;Slovakia;Europe;Eastern Europe;
+SVN;Slovenia;Europe;Southern Europe;
+SWE;Sweden;Europe;Northern Europe;
+SWZ;Eswatini;Africa;Sub-Saharan Africa;Southern Africa
+SWZ;Swaziland;Africa;Sub-Saharan Africa;Southern Africa
+SXM;Sint Maarten (Dutch part);Americas;Latin America and the Caribbean;Caribbean
+SYC;Seychelles;Africa;Sub-Saharan Africa;Eastern Africa
+SYC;Two Sicilies;Africa;Sub-Saharan Africa;Eastern Africa
+SYR;Syria;Asia;Western Asia;
+SYR;Syrian Arab Rep.;Asia;Western Asia;
+SYR;Syrian Arab Republic;Asia;Western Asia;
+SYR;United Arab Republic;Asia;Western Asia;
+TCA;Turks and Caicos Islands;Americas;Latin America and the Caribbean;Caribbean
+TCA;Turks and Caicos Islands (UK);Americas;Latin America and the Caribbean;Caribbean
+TCD;Chad;Africa;Sub-Saharan Africa;Middle Africa
+TGO;Togo;Africa;Sub-Saharan Africa;Western Africa
+THA;Thailand;Asia;South-eastern Asia;
+TJK;Tajikistan;Asia;Central Asia;
+TJK;Tibetan;Asia;Central Asia;
+TKM;Turkmenistan;Asia;Central Asia;
+TKM;Tuscany;Asia;Central Asia;
+TLS;East Timor;Asia;South-eastern Asia;
+TLS;Timor Leste;Asia;South-eastern Asia;
+TLS;Timor-Leste;Asia;South-eastern Asia;
+TON;Tonga;Oceania;Polynesia;
+TTO;Trinidad and Tobago;Americas;Latin America and the Caribbean;Caribbean
+TUN;Tunisia;Africa;Northern Africa;
+TUR;Turkey;Asia;Western Asia;
+TUV;Tuvalu;Oceania;Polynesia;
+TWN;Taiwan;Asia;Eastern Asia;
+TZA;Official name: Republic of Chi;Africa;Sub-Saharan Africa;Eastern Africa
+TZA;Tanzania;Africa;Sub-Saharan Africa;Eastern Africa
+TZA;United Rep. of Tanzania;Africa;Sub-Saharan Africa;Eastern Africa
+TZA;United Republic of Tanzania;Africa;Sub-Saharan Africa;Eastern Africa
+UAE;UAE;;;
+UGA;Uganda;Africa;Sub-Saharan Africa;Eastern Africa
+UKR;Ukraina;Europe;Eastern Europe;
+UKR;Ukraine;Europe;Eastern Europe;
+URY;Uruguay;Americas;Latin America and the Caribbean;South America
+USA;Stateless;Americas;Northern America;
+USA;United States;Americas;Northern America;
+USA;United States of America;Americas;Northern America;
+UZB;Uzbekistan;Asia;Central Asia;
+VAT;Holy See;Europe;Southern Europe;
+VAT;Papal States;Europe;Southern Europe;
+VAT;Vatican City;Europe;Southern Europe;
+VCT;Aden and the Protectorate of S;Americas;Latin America and the Caribbean;Caribbean
+VCT;Central Europe and the Baltics;Americas;Latin America and the Caribbean;Caribbean
+VCT;Latin America & the Caribbean (IDA & IBRD countries);Americas;Latin America and the Caribbean;Caribbean
+VCT;Saint Vincent and the Grenadines;Americas;Latin America and the Caribbean;Caribbean
+VCT;St. Vincent and the Grenadines;Americas;Latin America and the Caribbean;Caribbean
+VEN;Venezuela;Americas;Latin America and the Caribbean;South America
+VEN;Venezuela (Bolivarian Republic of);Americas;Latin America and the Caribbean;South America
+VEN;Venezuela, RB;Americas;Latin America and the Caribbean;South America
+VGB;British Virgin Islands;Americas;Latin America and the Caribbean;Caribbean
+VGB;British Virgin Islands(UK);Americas;Latin America and the Caribbean;Caribbean
+VGB;Pacific island small states;Americas;Latin America and the Caribbean;Caribbean
+VIR;American Virgin Islands (US);Americas;Latin America and the Caribbean;Caribbean
+VIR;Midway Islands (US);Americas;Latin America and the Caribbean;Caribbean
+VIR;Virgin Islands (U.S.);Americas;Latin America and the Caribbean;Caribbean
+VNM;North Vietnam;Asia;South-eastern Asia;
+VNM;Republic of Vietnam;Asia;South-eastern Asia;
+VNM;South Vietnam;Asia;South-eastern Asia;
+VNM;Viet Nam;Asia;South-eastern Asia;
+VNM;Vietnam;Asia;South-eastern Asia;
+VNM;Vietnam (North Vietnam);Asia;South-eastern Asia;
+VNM;Vietnam North;Asia;South-eastern Asia;
+VUT;New Hebrides;Oceania;Melanesia;
+VUT;Vanatu;Oceania;Melanesia;
+VUT;Vanuatu;Oceania;Melanesia;
+WLF;Wallis and Futuna;Oceania;Polynesia;
+WSM;Samoa;Oceania;Polynesia;
+WSM;Western Samoa;Oceania;Polynesia;
+XKX;Kosovo;Europe;Southern Europe;
+YEM;North Yemen;Asia;Western Asia;
+YEM;South Yemen;Asia;Western Asia;
+YEM;Yemen;Asia;Western Asia;
+YEM;Yemen (North Yemen);Asia;Western Asia;
+YEM;Yemen Arab Republic;Asia;Western Asia;
+YEM;Yemen North;Asia;Western Asia;
+YEM;Yemen South;Asia;Western Asia;
+YEM;Yemen, Rep.;Asia;Western Asia;
+ZAF;Middle East & North Africa;Africa;Sub-Saharan Africa;Southern Africa
+ZAF;North America;Africa;Sub-Saharan Africa;Southern Africa
+ZAF;South Africa;Africa;Sub-Saharan Africa;Southern Africa
+ZAF;South Asia;Africa;Sub-Saharan Africa;Southern Africa
+ZAF;South Asia (IDA & IBRD);Africa;Sub-Saharan Africa;Southern Africa
+ZMB;Northern Rhodesia;Africa;Sub-Saharan Africa;Eastern Africa
+ZMB;Zambia;Africa;Sub-Saharan Africa;Eastern Africa
+ZWE;Rhodesia;Africa;Sub-Saharan Africa;Eastern Africa
+ZWE;Southern Rhodesia;Africa;Sub-Saharan Africa;Eastern Africa
+ZWE;Zimbabwe;Africa;Sub-Saharan Africa;Eastern Africa
+ZWE;Zimbabwe (Rhodesia);Africa;Sub-Saharan Africa;Eastern Africa
