@@ -29,7 +29,7 @@ df_gti.drop(['Unnamed: 0'], axis=1, inplace=True)
 # Build App
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE])
 server = app.server
-server.wsgi_app = WhiteNoise(server.wsgi_app, root='data')
+server.wsgi_app = WhiteNoise(server.wsgi_app, root='static/')
 
 styles = {
     'pre': {
